@@ -1,3 +1,26 @@
+# Instruction
+
+In this quiz, we will be using retail dataset. You can get the csv file stored within the folder under `retail.csv` file. The data has 9994 observations with 14 variabels. 
+
+Here is the list of the column description:
+`Order.ID`: Id of order.
+`Order.Date` : Order of Date.
+`Ship.Date` : Date of shiping.
+`Ship.Mode` : type of shipment.
+`Customer.ID` : Id of Customer.
+`Segment` : Customers segment.
+`Product.ID` : Id of Product.
+`Category` : has 3 levels "Furniture","Office Supplies","Technology"    
+`sub.category`: more spesific categories
+`Product.Name` : Name of product that were sold.
+`Sales` : How much earning of each sales.
+`Quantity` : Quantity item sold.
+`Discount` : How much Discount were given for each sales.
+`Profit` : How much gain company earn for each sales.
+
+
+# Programming For Data Science
+
 1. How many transactions which generate profit above its average and have the quantity less than 5?
 - [ ] 1380
 - [ ] 1793
@@ -14,6 +37,8 @@
 - [ ] Appliances, Art, Binder
 - [ ] Supplies, Envelopes, Fasteners
 - [ ] Paper, Binder, Art
+
+# Practical Statistic
 
 4. Which statistical measures can be used to see the diversity of the data?
 - [ ] Probability
