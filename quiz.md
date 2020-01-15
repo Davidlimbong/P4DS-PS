@@ -1,13 +1,13 @@
 # Instruction
 
-In this quiz, we will be using retail dataset. You can get the csv file stored within the folder under `retail.csv` file. The data has 9994 observations with 14 variabels. 
+In this quiz, we will be using a retail dataset. You can get the CSV file stored within the folder under `retail.csv` file. The data has 9994 observations with 14 variables. 
 
 Here is the list of the column description:
 - `Order.ID`: Id of order.
-- `Order.Date` : Order of Date.
-- `Ship.Date` : Date of shiping.
-- `Ship.Mode` : type of shipment.
-- `Customer.ID` : Id of Customer.
+- `Order.Date`: Order of Date.
+- `Ship.Date`: Date of shipping.
+- `Ship.Mode`: type of shipment.
+- `Customer.ID`: Id of Customer.
 - `Segment` : Customers segment.
 - `Product.ID` : Id of Product.
 - `Category` : has 3 levels "Furniture","Office Supplies","Technology"    
@@ -52,6 +52,7 @@ Here is the list of the column description:
   - [ ] As the cost of production increase, the profit are fixed
 
 6. The company applies a promo to increase sales. After a month, you want to find out whether the promo has succeeded in increasing the profit or not with an average profit before the promo is 5000 and a standard deviation of 1000. After one month the promo is applied, it turns out the profit is 6000. Does this observation (5000) deviate away from the population enough for it to be statistically significant? Use a 95% confidence interval.
+
   - [ ] Fail to reject the null hypothesis, the promo does not have a statistically significant impact
   - [ ] Fail to reject the null hypothesis, the promo has a statistically significant impact
   - [ ] Reject the null hypothesis, the promo has a statistically significant impact 
