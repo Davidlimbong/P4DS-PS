@@ -52,7 +52,7 @@ We will split this quiz into 2 main sections: programming for data science and p
   - [ ] As the Sales decreases, the Profit gained decreases
   - [ ] As the Sales increase, the Profit is fixed
 
-6. Consider this case: The retail company would like to apply for a promotion to increase the number of sales. Based on historical record, you know that the monthly Sales population has an average profit of 47,858.35 with a standard deviation of 25,195 and is distributed normally. After the promotion is applied for a month you then calculate the total of Sales to be 81,777. Using 95% confidence interval, perform a significance test on how the promotion affects the number of sales. How would you conclude the test using the given information?
+6. Consider this case: The retail company would like to apply for a promotion to increase the number of sales. Based on historical record, you know that the monthly Sales population has an average profit of 47,858.35 with a standard deviation of 25,195 and is distributed normally. After the promotion is applied for a month you then calculate the total of Sales to be 81,777. Using 95% confidence interval, perform a significance using the z-test to test on how the promotion affects the number of sales. How would you conclude the test using the given information?
   - [ ] Fail to reject the null hypothesis, the promo does not have a statistically significant impact
   - [ ] Fail to reject the null hypothesis, the promo has a statistically significant impact
   - [ ] Reject the null hypothesis, the promo has a statistically significant impact 
